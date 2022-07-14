@@ -1,10 +1,10 @@
-import FirstComponent from './Components/index';
-import './App.css';
+import FirstComponent from "./Components/index";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <FirstComponent/>
+      <FirstComponent />
     </div>
   );
 }
